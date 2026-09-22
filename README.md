@@ -1,9 +1,32 @@
 PROJECT TITLE:FARMERS MARKET PRICES AND SALES TRACKER
+
+
+
+
+
 TEAM NO:KLH_CSE_PSPJAVA_T26_FMPAST
+
+
+
+
 2620030094-R.SAMIKSH
+
+
+
+
 2620030095-V.SAI VARDHAN REDDY
+
+
+
+
 2620030216-B.SUHAS
+
+
+
+
 SUPERVISOR'S NAME-G.BALAIAH
+
+
 
 Abstract
 The Farmers' Market Price & Sales Tracker is a digital platform designed to help farmers manage and understand their agricultural sales more efficiently. The system focuses on the following key areas:
